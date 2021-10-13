@@ -1,21 +1,11 @@
 ![Cover](assets/gh-readme-cover.png)
 
-<div id="contact" style="display: flex;  align-items: center; justify-content: center;">
-  <a href="https://t.me/hanstobi">
-    <img src="https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" style="margin-right: 5px;">
-  </a>
-  <a href="mailto:learningway403@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contact" style="margin-right: 5px;">
-  </a>
-  <a href="https://twitter.com/tognon_hans">
-    <img src="https://img.shields.io/badge/Twitter-%2308A0E9.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Contact" style="margin-right: 5px;">
-  </a>
-</div>
+[![Telegram Contact](https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanstobi) [![Gmail Contact](https://img.shields.io/badge/Gmail-%23BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningway403@gmail.com) [![Twitter Contact](https://img.shields.io/badge/Twitter-%2308A0E9.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tognon_hans)
 
 ### In a Nutshell
 - 👤 19 y.o, studying **Software Engineering**
 - 🌱 I’m currently learning _Machine Learning_
-- 👯 I’m looking to collaborate on anything related to **.py**, **.ts** or **.rs**
+- 👯 I’m looking to collaborate on anything related to **.py**, **.ts** or **.rs** (code, in general)
 - 🤔 I’m looking for help with contributing to Open Source in the right way
 - 💬 Ask me about anything (I'll answer if possible)
 
@@ -26,7 +16,7 @@
 
 ![](https://img.shields.io/badge/Vue-%23314559.svg?style=for-the-badge&logo=vue.js) ![](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/Laravel-%23e54a2f.svg?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Adonis-%235a45ff.svg?style=for-the-badge&logo=adonisjs)
 
-***And those that I don't remember while writing this...***
+*And those that I don't remember while writing this...*
 
 #### Next
-The best is coming.
+Coming...
