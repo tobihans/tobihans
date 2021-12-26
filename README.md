@@ -15,7 +15,7 @@
 
 ![](https://img.shields.io/badge/C-%231a1d21.svg?style=for-the-badge&logo=C&logoColor=white) ![](https://img.shields.io/badge/TypeScript-%230074c2.svg?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Python-%23f0c540.svg?style=for-the-badge&logo=python) ![](https://img.shields.io/badge/Rust-%23ea4800.svg?style=for-the-badge&logo=rust) ![](https://img.shields.io/badge/Php-%237175aa.svg?style=for-the-badge&logo=php&logoColor=white) ![](https://img.shields.io/badge/HTML-%23d84924.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Scss-%23c45f92.svg?style=for-the-badge&logo=sass&logoColor=white)
 
-![](https://img.shields.io/badge/Vue-%23314559.svg?style=for-the-badge&logo=vue.js) ![](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react) ![](https://img.shields.io/badge/Laravel-%23e54a2f.svg?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Adonis-%235a45ff.svg?style=for-the-badge&logo=adonisjs)
+![](https://img.shields.io/badge/Vue-%23314559.svg?style=for-the-badge&logo=vue.js) ![](https://img.shields.io/badge/Laravel-%23e54a2f.svg?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Adonis-%235a45ff.svg?style=for-the-badge&logo=adonisjs)
 
 *And those that I don't remember while writing this...*
 
