@@ -3,9 +3,9 @@
 [![Telegram Contact](https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanstobi) [![Gmail Contact](https://img.shields.io/badge/Gmail-%23BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningway403@gmail.com) [![Twitter Contact](https://img.shields.io/badge/Twitter-%2308A0E9.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tognon_hans)
 
 ### In a Nutshell
-- 👤 19 y.o, studying **Software Engineering**
+- 👤 20 y.o, studying **Software Engineering**
 - 🖤 loves dark mode, *Linux*, reading, games and family.
-- 🌱 I’m currently learning _Machine Learning_
+- 🌱 I’m currently learning _Machine Learning_ and a lot of other ***Software Engineering*** stuff( secret :) )
 - 👯 I’m looking to collaborate on anything related to **.py**, **.ts** or **.rs** (code, in general)
 - 🤔 I’m looking for help with contributing to Open Source in the right way
 - 💬 Ask me about anything (I'll answer if possible)
