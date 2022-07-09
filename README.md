@@ -5,7 +5,7 @@
 ### In a Nutshell
 - 👤 20 y.o, studying **Software Engineering**
 - 🖤 loves dark mode, *Linux*, reading, games and family.
-- 🌱 I’m currently learning _Machine Learning_ and a lot of other ***Software Engineering*** stuff( secret :) )
+- 🌱 I’m currently learning a lot of ***Software Engineering*** and ***Data*** related stuffs :)
 - 👯 I’m looking to collaborate on anything related to **.py**, **.ts** or **.rs** (code, in general)
 - 🤔 I’m looking for help with contributing to Open Source in the right way
 - 💬 Ask me about anything (I'll answer if possible)
