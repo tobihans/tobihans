@@ -1,6 +1,6 @@
 ![Cover](assets/gh-readme-cover.png)
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanstobi) [![Gmail Contact](https://img.shields.io/badge/Gmail-%23BB001B.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningway403@gmail.com) [![Twitter Contact](https://img.shields.io/badge/Twitter-%2308A0E9.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tognon_hans)
+[![Telegram Contact](https://img.shields.io/badge/Telegram-%230088CC.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hanstobi) [![Twitter Contact](https://img.shields.io/badge/Twitter-%2308A0E9.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tognon_hans)
 
 ### In a Nutshell
 - 👤 20 y.o, studying **Software Engineering**
