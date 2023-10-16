@@ -21,4 +21,13 @@
 
 ### Weekly activity
 <!--START_SECTION:waka-->
+
+```txt
+HTML             9 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   35.17 %
+Python           4 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Rust             3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Vue.js           2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+CSS              1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+```
+
 <!--END_SECTION:waka-->
