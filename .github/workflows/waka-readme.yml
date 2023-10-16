@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           CODE_LANG: rust
-          BLOCKS: ->
+          # BLOCKS: ->
           LANG_COUNT: 10
           TIME_RANGE: last_30_days
           SHOW_TIME: true
