@@ -19,5 +19,6 @@
 
 *And those that I don't remember while writing this...*
 
-#### Next
-Coming...
+### Weekly activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
