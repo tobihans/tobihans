@@ -17,7 +17,7 @@
 
 ![](https://img.shields.io/badge/Vue-%23314559.svg?style=for-the-badge&logo=vue.js) ![](https://img.shields.io/badge/Laravel-%23e54a2f.svg?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Adonis-%235a45ff.svg?style=for-the-badge&logo=adonisjs)
 
-*And those that I don't remember while writing this...*
+*And many more...*
 
 ### Coding activity (last 30 days)
 <!--START_SECTION:waka-->
