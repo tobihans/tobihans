@@ -23,18 +23,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 114 hrs 11 mins
+Total Time: 113 hrs 58 mins
 
-Rust              15 hrs 52 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
-HTML              13 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Vue.js            13 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Python            13 hrs 4 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Lua               9 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-TypeScript        5 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-YAML              4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-JavaScript        4 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-JSON              3 hrs 55 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Markdown          3 hrs 39 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Rust              15 hrs 26 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+HTML              13 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Vue.js            13 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Python            10 hrs 39 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Lua               9 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+TypeScript        5 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+YAML              4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Markdown          4 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Makefile          4 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+JavaScript        4 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
