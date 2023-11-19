@@ -19,7 +19,7 @@
 
 *And many more...*
 
-### Coding activity (last 30 days)
+### Coding activity (last 7 days)
 <!--START_SECTION:waka-->
 
 ```python
