@@ -23,12 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 6 hrs 45 mins
+Total Time: 9 hrs 59 mins
 
-Python       3 hrs           ██████████▓░░░░░░░░░░░░░░   42.22 %
-NSIS         44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-TOML         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Other        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Python          3 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.23 %
+Other           1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
 ```
 
 <!--END_SECTION:waka-->
