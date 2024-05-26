@@ -23,12 +23,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 20 hrs 5 mins
+Total Time: 20 hrs 7 mins
 
-Lua             5 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-Python          4 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-TOML            2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Other           1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Lua             7 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 %
+Python          3 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+TOML            2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Other           1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 ```
 
 <!--END_SECTION:waka-->
