@@ -23,13 +23,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 23 hrs 14 mins
+Total Time: 23 hrs 35 mins
 
-Lua             7 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   31.64 %
-Python          3 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-TOML            2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Rust            2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Other           1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Lua           7 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.57 %
+Python        3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+TOML          2 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Rust          2 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+PowerShell    1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Other         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
