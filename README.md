@@ -23,15 +23,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 21 hrs 17 mins
+Total Time: 21 hrs 8 mins
 
-Python       9 hrs 12 mins   ██████████▒░░░░░░░░░░░░░░   41.64 %
-TypeScript   3 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-Lua          1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
-Makefile     1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Dart         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-TOML         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Other        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Python       8 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   37.19 %
+TypeScript   3 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Makefile     2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+Lua          1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Dart         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+TOML         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
