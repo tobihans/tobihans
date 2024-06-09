@@ -23,14 +23,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 20 hrs 36 mins
+Total Time: 25 hrs 13 mins
 
-Python       6 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   28.72 %
-TypeScript   4 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.41 %
-Lua          2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Makefile     1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-YAML         1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Other        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+TypeScript   9 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   35.25 %
+Python       3 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Lua          2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+YAML         1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+hurl         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Other        1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
