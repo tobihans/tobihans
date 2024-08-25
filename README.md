@@ -23,18 +23,9 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 7 hrs 27 mins
+Total Time: 0 secs
 
-TypeScript   2 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.84 %
-Astro        1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-Docker       46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Lua          38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-YAML         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Markdown     33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-TOML         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Bash         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-HTML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-conf         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
