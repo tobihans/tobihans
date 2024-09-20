@@ -21,11 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 40 mins
+Total Time: 1 hr 2 mins
 
-YAML         16 mins         █████████▒░░░░░░░░░░░░░░░   36.98 %
-Python       14 mins         ████████░░░░░░░░░░░░░░░░░   32.06 %
-Other        5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+TypeScript   21 mins         ████████░░░░░░░░░░░░░░░░░   32.13 %
+YAML         16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
+Python       14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
+Other        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->
