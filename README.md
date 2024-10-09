@@ -16,14 +16,3 @@
 ![](https://img.shields.io/badge/Vue-%23314559.svg?style=for-the-badge&logo=vue.js) ![](https://img.shields.io/badge/Laravel-%23e54a2f.svg?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Adonis-%235a45ff.svg?style=for-the-badge&logo=adonisjs)
 
 *And many more...*
-
-### Coding activity (last 7 days)
-<!--START_SECTION:waka-->
-
-```python
-Total Time: 34 mins
-
-Go   34 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
